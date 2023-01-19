@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8c667ef3-2859-4ad8-96a7-257a5a18ab57": {
+      "ProjectGuid": "8c667ef3-2859-4ad8-96a7-257a5a18ab57",
+      "DisplayName": "RunExecutable",
+      "ColorIndex": 0
+    },
+    "8e56f724-4fbe-448b-a237-5205b986c9c2": {
+      "ProjectGuid": "8e56f724-4fbe-448b-a237-5205b986c9c2",
+      "DisplayName": "TestRunArguments",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

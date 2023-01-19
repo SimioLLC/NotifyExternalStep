@@ -1,0 +1,8 @@
+D:\(Clouds)\SimioCloud\API\Examples2023\NotifyExternalStep\Source\NotifyExternal\obj\Debug\NotifyExternal.csproj.AssemblyReference.cache
+D:\(Clouds)\SimioCloud\API\Examples2023\NotifyExternalStep\Source\NotifyExternal\obj\Debug\NotifyExternal.csproj.CoreCompileInputs.cache
+D:\(Clouds)\SimioCloud\API\Examples2023\NotifyExternalStep\Source\NotifyExternal\obj\Debug\NotifyExternal.csproj.CopyComplete
+D:\(Clouds)\SimioCloud\API\Examples2023\NotifyExternalStep\Source\NotifyExternal\obj\Debug\NotifyExternal.dll
+D:\(Clouds)\SimioCloud\API\Examples2023\NotifyExternalStep\Source\NotifyExternal\obj\Debug\NotifyExternal.pdb
+D:\(Clouds)\SimioCloud\API\Examples2023\NotifyExternalStep\Source\NotifyExternal\obj\Debug\SimioAPI.dll
+D:\(Clouds)\SimioCloud\API\Examples2023\NotifyExternalStep\Source\NotifyExternal\obj\Debug\SimioAPI.Extensions.dll
+D:\(Clouds)\SimioCloud\API\Examples2023\NotifyExternalStep\Source\NotifyExternal\obj\Debug\SimioAPI.Graphics.dll
